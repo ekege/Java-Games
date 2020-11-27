@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lacke
+ *
+ */
+module javaGames {
+}
